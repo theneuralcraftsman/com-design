@@ -31,7 +31,7 @@ int main() {
     return 0;
 }
 
-
+// sudo apt install flex
 // sudo vi lex.l {lex is the file name}
 // flex lex.l
 // gcc lex.yy.c -lfl
